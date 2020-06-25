@@ -1,0 +1,63 @@
+[*]
+[*] GTKWave Analyzer v3.3.104 (w)1999-2020 BSI
+[*] Wed Jun 24 03:51:47 2020
+[*]
+[dumpfile] "/home/kneil/code/lmisc/rvp/dump.lxt"
+[dumpfile_mtime] "Wed Jun 24 03:50:09 2020"
+[dumpfile_size] 29431
+[savefile] "/home/kneil/code/lmisc/rvp/config.gtkw"
+[timestart] 720
+[size] 3666 2084
+[pos] 45 2250
+*-2.933363 745 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
+[treeopen] tbecho.
+[treeopen] tbecho.e.
+[treeopen] tbecho.e.i0.
+[sst_width] 394
+[signals_width] 644
+[sst_expanded] 1
+[sst_vpaned_height] 631
+@28
+tbecho.e.clk[0]
+tbecho.run[0]
+tbecho.e.rst[0]
+tbecho.e.taken[0]
+@22
+tbecho.e.taken_addr[31:0]
+tbecho.e.i0.i_pc0.pc[31:0]
+tbecho.e.i0.i_pc0.pc_out[31:0]
+@28
+tbecho.e.i0.i_pc0.decode_en[0]
+@22
+tbecho.e.instr[31:0]
+@28
+tbecho.e.opcode_out[6:0]
+@22
+tbecho.e.d0.rs1_addr[4:0]
+tbecho.e.rs1_val[31:0]
+tbecho.e.d0.rs2_addr[4:0]
+tbecho.e.rs2_val[31:0]
+@28
+tbecho.e.en_ex[0]
+tbecho.e.op[3:0]
+tbecho.e.op_choice[0]
+@22
+tbecho.e.imm[31:0]
+tbecho.e.pc_id_ex[31:0]
+tbecho.e.result_ex_mem[31:0]
+@28
+tbecho.e.m0.en[0]
+@200
+-^^ mem
+@28
+tbecho.e.w0.en[0]
+@200
+-^^ wb
+@28
+tbecho.e.en_wb_wb_id[0]
+@24
+tbecho.e.rd[4:0]
+@22
+tbecho.e.rd_val[31:0]
+[pattern_trace] 1
+[pattern_trace] 0

@@ -1,0 +1,34 @@
+[*]
+[*] GTKWave Analyzer v3.3.104 (w)1999-2020 BSI
+[*] Thu Jun 11 21:05:21 2020
+[*]
+[dumpfile] "/home/kneil/code/lmisc/rvp/dump.lxt"
+[dumpfile_mtime] "Thu Jun 11 21:04:27 2020"
+[dumpfile_size] 683
+[savefile] "/home/kneil/code/lmisc/rvp/ID/config.gtkw"
+[timestart] 0
+[size] 3034 1554
+[pos] 546 225
+*-3.106778 0 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
+[treeopen] tbregfile.
+[sst_width] 376
+[signals_width] 352
+[sst_expanded] 1
+[sst_vpaned_height] 447
+@28
+tbregfile.r0.clk[0]
+tbregfile.r0.rst[0]
+tbregfile.r0.read_en[0]
+@22
+tbregfile.rs1[4:0]
+tbregfile.rs1_val[31:0]
+tbregfile.rs2[4:0]
+tbregfile.rs2_val[31:0]
+@28
+tbregfile.r0.write_en[0]
+@22
+tbregfile.rd[4:0]
+@23
+tbregfile.rd_val[31:0]
+[pattern_trace] 1
+[pattern_trace] 0
