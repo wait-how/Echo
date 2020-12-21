@@ -9,6 +9,10 @@ Things I've Learned:
 	2. Most bugs happen when modules collide - either things are misconnected or I didn't take into account features I needed while designing the module.
 	3. I need to write the testbench to exercise _every_ aspect of the module and decision I make - otherwise bugs slip through the cracks.
 
+
+cleanups:
+	1. instead of using a ton of different wires, just have a giant 32/64/etc. bit wire going from stage to stage.  define signals as indices into said giant wire.
+
 TODO:
 	- Add some serious JAL and JALR code to the testbench - encoding is super weird and it needs to be tested.
 	
